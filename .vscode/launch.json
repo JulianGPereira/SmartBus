@@ -1,0 +1,28 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Smart Bus",
+            "cwd": "Smart Bus",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "Smart Bus (profile mode)",
+            "cwd": "Smart Bus",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "Smart Bus (release mode)",
+            "cwd": "Smart Bus",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
